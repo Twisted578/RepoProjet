@@ -33,6 +33,8 @@
         <link rel="stylesheet" href="css/main.css">
         <!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
+        <!-- css pour tableau chapitres -->
+        <link rel="stylesheet" href="css/chapitres.css">
         
         <!-- Template Javascript Files
         ================================================== -->

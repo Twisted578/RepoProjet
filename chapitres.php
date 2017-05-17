@@ -10,12 +10,12 @@
 		<div class="lastchapitres">
 		    <div class="row">
 		    	<div class="col-lg-6">
-		    		 <section class="lastArticles boxArticles">
+		    		 <section class="lastArticlesboxArticles">
 						<h3>Derniers articles </h3>
 						<ul>
 							<li>
 								<a href="">
-									<div class="thumb"><img src="img/img1.png" alt ="" /></div>
+									<div class="thumb"><img src="images/articles/img1.png" alt ="" /></div>
 									<div class="detail">
 										<h4>Final FAntasy XIII</h4>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -67,7 +67,7 @@
 				</section>		
 		    	</div>
 		    	<div class="col-lg-6">
-		    		<section class="lastComments boxComments">
+		    		<section class="lastCommentsboxComments">
 						<h3>Derniers commentaires</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua. </p>
